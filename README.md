@@ -1,2 +1,2 @@
-# warp-for-VPS
+# WARP-for-VPS
 tutorial for installing WARP on a VPS 
